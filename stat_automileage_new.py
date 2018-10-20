@@ -31,7 +31,7 @@ from rosbag.bag import Bag
 from modules.canbus.proto.chassis_pb2 import Chassis
 
 
-kChassisTopic = '/apollo/canbus/chassis'
+kChassisTopic = '/apollo/canbus/chassis/123'
 kLocalizationTopic = '/apollo/localization/pose'
 
 
